@@ -1,1 +1,28 @@
-
+{
+  "students": [
+    {
+      "reg_no": "STU001",
+      "full_name": "Amina Bello",
+      "class": "SS2A",
+      "password": "password123",
+      "results": [
+        {"subject": "Mathematics", "test": 35, "exam": 40},
+        {"subject": "English", "test": 30, "exam": 45},
+        {"subject": "Biology", "test": 32, "exam": 38},
+        {"subject": "Chemistry", "test": 28, "exam": 42},
+        {"subject": "Physics", "test": 30, "exam": 40}
+      ]
+    },
+    {
+      "reg_no": "STU002", 
+      "full_name": "Abubakar Musa",
+      "class": "SS2A",
+      "password": "password123",
+      "results": [
+        {"subject": "Mathematics", "test": 38, "exam": 48},
+        {"subject": "English", "test": 33, "exam": 40},
+        {"subject": "Biology", "test": 35, "exam": 45}
+      ]
+    }
+  ]
+}
